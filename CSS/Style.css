@@ -1,0 +1,618 @@
+body{
+    background-color: white;
+
+}
+
+.titulo{
+    font-family: Bahnschrift Condensed;
+    top: 20px;
+    left: 66px;
+    font-size: 46px;
+
+    position: absolute;
+    left: 5%;
+
+}
+
+.Div_Buscar_poci{
+
+    position: absolute;
+    left: 36%;
+    top: 65px;
+}
+
+.Buscar{
+    font-family: Arial;
+    font-size: 20px;
+    color: #6B6B6B;
+    
+
+    background-color: #EEEEEE;   
+    left: 100px;
+    width: 350px;
+    height: 30px;
+    border: 1px solid #EEEEEE;
+    border-radius: 5px;
+
+}
+
+.img_buscar{
+    
+    position: absolute;
+    left: 90%;
+    top: 13px;
+
+    display: flex;
+    width: 20px;
+    height: 20px;
+    background-color: #EEEEEE;
+}
+
+.carrito{
+
+    position:absolute;
+    left: 70%;
+    top: 60px;
+
+    width: 51px;
+    height: 43px;
+}
+
+.usuario{
+
+    position:absolute;
+    left: 80%;
+    top: 53px;
+
+    width: 51px;
+    height: 53px;
+}
+
+.Text_user{
+
+    color:black;
+    font-family: arial;
+
+    position:absolute;
+    left: 85%;
+    top: 60px;
+}
+
+.menu{
+
+
+    width: 99%;
+    height: 60px;
+    background-color: black;
+
+    position:absolute;
+    top: 20%;
+
+}
+
+
+
+.UUL {
+    list-style-type: none;
+    display: flexbox;
+}
+  
+.lli {
+    text-align: center;
+    color:#FFFFFF;
+    background-color: rgb(0, 0, 0);
+    font-family: Arial;
+    float: left;
+    width: 5em;
+    font-size: 20px;
+    display: flexbox;
+
+    border-right-color: #FFFFFF;
+ 
+
+    margin-right: 10px;
+    padding: 0 4px;
+
+
+    width: 120px;
+    height: 40px;
+}
+
+.divmenu{
+
+    position: absolute;
+    left:15%;
+    
+    display: flexbox;
+
+}
+
+.AHHH{
+
+    text-align: center;
+    font-family: Arial;
+    float: right;
+    width: 5em;
+    font-size: 20px;
+    display: flexbox;
+
+ 
+    border-right: 1px solid white;
+
+    margin-right: 10px;
+    padding: 0 4px;
+
+
+    width: 120px;
+    height: 40px;
+
+}
+a:hover{
+
+    background-color: #FFFFFF;
+
+    color: black;
+
+}
+
+.post{
+
+    width: 100%;
+    height: 550px;
+
+    position:absolute;
+    top: 60px;
+}
+
+
+
+.g140{
+   
+   opacity: 0.8;
+    position:absolute;
+    top: 790px;
+    left: 150px;
+    width: 500px;
+    height: 350px;
+}
+
+.g139{
+    opacity: 0.8;
+
+    position:absolute;
+    top: 790px;
+    left: 700px;
+
+    width: 500px;
+    height: 350px;
+}
+
+.L140{
+    color: white;
+    position: absolute;
+    display: inline-block;
+    text-align: center;
+
+    top: 900px;
+    left: 200px;
+
+    font-family: Franklin Gothic Heavy;
+    font-size: 50px;
+    text-shadow: black 0.1em 0.1em 0.2em;
+
+}
+
+.L139{
+    color: white;
+    position: absolute;
+    display: inline-block;
+    text-align: center;
+
+    top: 900px;
+    left: 800px;
+
+    font-family: Franklin Gothic Heavy;
+    font-size: 50px;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+.P_text{
+    position: absolute;
+    top: 1200px;
+    left: 475px;
+
+    font-family: Arial;
+    
+
+}
+
+.abajo{
+
+    background-color: black;
+
+
+    width: 100%;
+    height: 350px;
+
+    position:absolute;
+    top: 1700px;
+    left: -1px;
+}
+
+.Titulo_politicas{
+    color: white;
+
+    position: absolute;
+    top: 50px;
+    left: 150px;
+
+
+    font-family: Arial;
+
+}
+
+.txt_politicas{
+    color: white;
+
+    position: absolute;
+    top: 120px;
+    left: 145px;
+    float: none;
+
+
+    font-family: Corbel;
+}
+
+.Titulo_Nosotros{
+
+    color: white;
+
+    position: absolute;
+    top: 50px;
+    left: 560px;
+
+
+    font-family: Arial;
+
+}
+
+.txt_Nosotros{
+    color: white;
+
+    position: absolute;
+    top: 115px;
+    left: 560px;
+    float: none;
+
+
+    font-family: Corbel;
+
+}
+
+.Titulo_Siguenos{
+
+    color: white;
+
+    position: absolute;
+    top: 55px;
+    left: 950px;
+
+
+    font-family: Arial;
+
+}
+
+hr{
+
+    position: absolute;
+    width: 1347px;
+    top: 300px;
+}
+
+.Derechos{
+    color: white;
+
+    position: absolute;
+    top: 305px;
+    left: 490px;
+    font-family: Corbel;
+}
+
+.circulo {
+    width: 40px;
+    height: 40px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background-color: white;
+
+    position: absolute;
+    top: 110px;
+    left: 950px;
+}
+
+.circulo1 {
+    width: 40px;
+    height: 40px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background-color: white;
+
+    position: absolute;
+    top: 110px;
+    left: 1000px;
+}
+.circulo2 {
+    width: 40px;
+    height: 40px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background-color: white;
+
+    position: absolute;
+    top: 110px;
+    left: 1050px;
+}
+.circulo3 {
+    width: 40px;
+    height: 40px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background-color: white;
+
+    position: absolute;
+    top: 110px;
+    left: 1100px;
+}
+
+.FB{
+    position:relative;
+    
+    top: 5px;
+    left: 11px;
+
+    width: 18px;
+    height: 30px;
+}
+
+.Twit{
+    position:relative;
+    
+    top: 7px;
+    left: 8px;
+
+    width: 25px;
+    height: 25px;
+}
+
+.Insta{
+    position:relative;
+    top: 7px;
+    left: 8px;
+
+    width: 25px;
+    height: 25px;
+}
+
+.YT{
+    position:relative;
+    
+    top: 10px;
+    left: 6px;
+
+    width: 28px;
+    height: 20px;
+}
+
+.img1{
+
+    position: absolute;
+    top: 1300px;
+    left: 200px;
+
+    width: 170px;
+    height: 250px;
+
+}
+
+.img2{
+
+    position: absolute;
+    top: 1300px;
+    left: 450px;
+
+    width: 170px;
+    height: 250px;
+
+}
+
+.img3{
+
+    position:absolute;
+    top: 1300px;   
+    left: 700px;
+
+    
+    width: 170px;
+    height: 250px;
+    background-image: unset;
+    
+}
+
+.img4{
+
+    position: absolute;
+    top: 1300px;    
+    left: 950px;
+
+    width: 170px;
+    height: 250px;
+
+}
+
+.rectangulo1 {
+    color:white;
+    font-family: Arial;
+
+
+    width: 50px; 
+    height: 20px; 
+    background: #5B17AA;
+
+    position:absolute;
+    top: 1300px;
+    left: 450px;
+    z-index: 2;
+
+}
+
+.num_ofer1{
+
+position: absolute;
+
+    top: -14px;   
+    left: 6px;
+
+}
+
+.rectangulo2 {
+    color:white;
+
+    width: 50px; 
+    height: 20px; 
+    background: #5B17AA;
+
+    font-family: Arial;
+
+    position:absolute;
+    top: 1300px;   
+    left: 700px;
+    z-index: 2;
+
+}
+
+.num_ofer2{
+
+position: absolute;
+
+    top: -14px;   
+    left: 6px;
+
+}
+
+.TXT_img1{
+
+    position: absolute;
+    top: 1540px;
+    left: 200px;
+
+    font-family: Arial;
+
+
+}
+
+.img1_Precio{
+    color: #5B17AA;
+
+    position: absolute;
+    top: 1610px;
+    left: 300px;
+
+    font-family: Arial;
+
+}
+
+.TXT_img2{
+
+    position: absolute;
+    top: 1540px;
+    left: 450px;
+
+    font-family: Arial;
+
+
+}
+
+.img2_Precio{
+    color: #5B17AA;
+
+    position: absolute;
+    top: 1610px;
+    left: 550px;
+
+    font-family: Arial;
+
+}
+
+.img2_Precio_oferta{
+    color: #6B6B6B;
+    text-decoration: line-through;
+
+
+    position: absolute;
+    top: 1610px;
+    left: 450px;
+
+    font-family: Arial;
+
+}
+
+.TXT_img3{
+
+    position: absolute;
+    top: 1540px;
+    left: 700px;
+
+    font-family: Arial;
+
+
+}
+
+.img3_Precio{
+    color: #5B17AA;
+
+    position: absolute;
+    top: 1610px;
+    left: 800px;
+
+    font-family: Arial;
+
+}
+
+.img3_Precio_oferta{
+    color: #6B6B6B;
+    text-decoration: line-through;
+
+
+    position: absolute;
+    top: 1610px;
+    left: 700px;
+
+    font-family: Arial;
+
+}
+
+.TXT_img4{
+
+    position: absolute;
+    top: 1540px;
+    left: 950px;
+
+    font-family: Arial;
+
+
+}
+
+.img4_Precio{
+    color: #5B17AA;
+
+    position: absolute;
+    top: 1610px;
+    left: 1060px;
+
+    font-family: Arial;
+
+}
